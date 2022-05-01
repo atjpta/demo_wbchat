@@ -1,0 +1,1 @@
+import{_ as e,y as r,x as t}from"./index.caa75d62.js";const a={};function n(o,c,s,_,p,l){return t(),r("div",null," \u0111\xE2y l\xE0 trang th\u1EE9 2 ")}var i=e(a,[["render",n]]);export{i as default};
